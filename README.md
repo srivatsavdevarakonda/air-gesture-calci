@@ -99,8 +99,9 @@ Feel free to fork this repository and open pull requests for new features or imp
 ## 👨‍💻 Author
 
 👤 D SRIVATSAV
-GitHub: [@srivatsavdevarakonda](https://github.com/srivatsavdevarakonda)
----
+
+**GitHub: [@srivatsavdevarakonda](https://github.com/srivatsavdevarakonda)
+**---
 
 ## 📄 License
 
