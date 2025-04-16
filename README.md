@@ -46,6 +46,13 @@ mediapipe
 
 ---
 
+## Technologies Used
+- **Python**
+- **OpenCV**
+- **MediaPipe**
+
+---
+
 ## 🖥️ How to Run
 
 Make sure your webcam is connected and accessible.
