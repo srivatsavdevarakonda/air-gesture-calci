@@ -96,13 +96,13 @@ Feel free to fork this repository and open pull requests for new features or imp
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👨‍💻 Author
 
 👤 D SRIVATSAV
 GitHub: @srivatsavdevarakonda
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
